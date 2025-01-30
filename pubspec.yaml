@@ -4,7 +4,7 @@ version: 0.0.1
 homepage: https://github.com/malikumair24800/my_python_plugin
 
 environment:
-  sdk: ">=3.6.1 <4.0.0"
+  sdk: ">=3.5.2 <4.0.0"
   flutter: ">=3.3.0"
 
 dependencies:
